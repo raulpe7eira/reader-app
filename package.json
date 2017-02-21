@@ -1,5 +1,5 @@
 {
-  "name": "readerapp",
+  "name": "reader-app",
   "author": "Raul Pereira <raul.pereira@gmail.com>",
   "private": true,
   "scripts": {
@@ -39,5 +39,5 @@
     "ionic-plugin-keyboard"
   ],
   "cordovaPlatforms": [],
-  "description": "readerapp: An Ionic 2 project"
+  "description": "Reader app.: An Ionic 2 project"
 }
